@@ -11,9 +11,7 @@ Unofficial Lunar Client package for Debian-based distributions.
 
 ```bash
 wget https://github.com/MiniCrackFG/lunarclient-deb/releases/latest/download/lunarclient.deb
-sudo apt install ./lunarclient.deb
-
-also you can install it with sudo dpkg -i lunarclient.deb 
+sudo dpkg -i lunarclient.deb 
 ```
 ## ✅ Features
 
