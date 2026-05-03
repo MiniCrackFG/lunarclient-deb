@@ -21,6 +21,6 @@ also you can install it with sudo dpkg -i lunar-client.deb
 - Desktop entry
 - Easy install
 
-### ⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This project is not affiliated with Lunar Client.
