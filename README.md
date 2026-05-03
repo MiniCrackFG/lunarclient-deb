@@ -28,3 +28,4 @@ sudo dpkg -i lunarclient.deb
 > [!caution]
 >
 > This project is not affiliated with Lunar Client.
+- [The official webside is this](https://www.lunarclient.com/)  
