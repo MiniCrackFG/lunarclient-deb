@@ -27,7 +27,7 @@ While a Flatpak version is available, it currently presents some issues that can
 
 ```bash
 wget https://github.com/MiniCrackFG/lunarclient-deb/releases/latest/download/lunarclient.deb
-sudo dpkg -i lunarclient.deb 
+sudo dpkg -i lunar-client.deb 
 ``` 
 ## ✅ Features
 
